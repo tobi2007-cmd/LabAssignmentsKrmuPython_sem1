@@ -1,0 +1,9 @@
+timestamp,kwh,building
+2024-01-01 01:00:00,10.5,sample_energy_data
+2024-01-01 02:00:00,12.3,sample_energy_data
+2024-01-01 03:00:00,9.8,sample_energy_data
+2024-01-02 01:00:00,11.2,sample_energy_data
+2024-01-02 02:00:00,13.1,sample_energy_data
+2024-01-01 01:00:00,15.0,sample_energy_data
+2024-01-01 02:00:00,14.2,sample_energy_data
+2024-01-02 01:00:00,16.5,sample_energy_data
